@@ -293,6 +293,20 @@ h1, h2, h3, h4, h5,
       background: darken($primary, 10%);
     }
   }
+
+  &.btn-primary-outline {
+    border-color: $primary;
+    background: none;
+    color: $primary;
+    display: flex;
+    align-items: center;
+
+    &:hover, &:focus, &:active {
+      border-color: darken($primary, 10%);
+      background: darken($primary, 10%);
+      color: white;
+    }
+  }
   &.btn-outline-white {
     border-color: rgba($white, .2);
     background: none;
@@ -465,7 +479,7 @@ textarea {
         transform: translate(-50%, -50%);
       }
       &:hover {
-        color: $white;
+        color: darken(#ff317f, 5);
       }
     }
   }
@@ -679,4 +693,25 @@ textarea {
 
 .text-naebka {
   text-decoration: line-through;
+}
+
+.icon-btn {
+  max-width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 14px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  font-weight: bold;
+  cursor: pointer;
+
+  &__icon {
+    font-size: 20px;
+    margin-right: 15px;
+  }
+  &__label {
+    font-family: $font-sans-serif;
+    text-transform: uppercase;
+  }
 }
