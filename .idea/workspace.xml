@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="820dd732-767b-4304-8be4-26202d574aa3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images/DSC_0079.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DSC_0321.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DSC_0003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DSC_0004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DSC_0031.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DSC_0129.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DSC_0152.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DSC_0164.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DSC_0209.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -37,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="289" column="44" selection-start-line="289" selection-start-column="44" selection-end-line="289" selection-end-column="44" />
+            <state relative-caret-position="211">
+              <caret line="78" column="56" selection-start-line="78" selection-start-column="56" selection-end-line="78" selection-end-column="56" />
               <folding>
                 <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -76,6 +66,7 @@
       <find>pri</find>
       <find>онтакты</find>
       <find>DSC</find>
+      <find>carouse</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -187,12 +178,12 @@
       <workItem from="1570645992071" duration="14000" />
       <workItem from="1572031717504" duration="8000" />
       <workItem from="1572172722768" duration="135000" />
-      <workItem from="1575146304673" duration="1378000" />
+      <workItem from="1575146304673" duration="1653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23461000" />
+    <option name="totallyTimeSpent" value="23736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -275,8 +266,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="289" column="44" selection-start-line="289" selection-start-column="44" selection-end-line="289" selection-end-column="44" />
+        <state relative-caret-position="211">
+          <caret line="78" column="56" selection-start-line="78" selection-start-column="56" selection-end-line="78" selection-end-column="56" />
           <folding>
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
