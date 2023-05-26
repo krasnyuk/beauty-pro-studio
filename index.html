@@ -10,7 +10,10 @@
 
         gtag('config', 'UA-159351638-1');
         gtag('config', 'AW-780451986');
+        gtag('config', 'AW-780451986');
     </script>
+    <!-- Event snippet for клик номер тел в тел версии conversion page In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. --> 
+    <script> function gtag_report_conversion(url) { var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-780451986/x4lnCPKikaQYEJKBk_QC', 'event_callback': callback }); return false; } </script>
     <!-- 
     More Templates Visit ==> Free-Template.co
     -->
@@ -505,7 +508,7 @@
         </div>
         <div class="row mb-4 flex-row flex-column" style="align-items: center">
             <h4 class="mt-0">
-                <a href="tel:+380981123200">+38 098 11 23 200</a>
+                <a onclick="return gtag_report_conversion('tel:+380981123200');" href="tel:+380981123200">+38 098 11 23 200</a>
             </h4>
             <h4 class="mt-0">
                 <a href="mailto:beauty1pro1studio@gmail.com">beauty1pro1studio@gmail.com</a>
